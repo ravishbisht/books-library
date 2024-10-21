@@ -7,7 +7,7 @@
     },
     "description": "The Bhagavad Gita is all about finding peace and purpose in life. It’s a chat between Arjuna and Krishna, packed with advice on handling tough times. A must-read if you’re looking for inspiration and good vibes!",
     "button": {
-      "link": "books/geeta/geeta.html"
+      "link": "src/books/geeta/geeta.html"
     }
   },
   {
@@ -18,7 +18,7 @@
     },
     "description": "Check out the Book of Proverbs! It’s full of short, wise sayings that give you helpful tips for everyday life. From friendship to making good choices, it’s like getting advice from a good friend. Perfect for anyone looking for a little guidance!",
     "button": {
-      "link": "books/bible/bible.html"
+      "link": "src/books/bible/bible.html"
     }
   },
   {
@@ -29,7 +29,7 @@
     },
     "description": "The Quran is Islam's holy book, sharing God's guidance on living a good and peaceful life. It's full of wisdom and advice for Muslims, helping them grow spiritually and find peace.",
     "button": {
-      "link": "books/quaran/quaran.html"
+      "link": "src/books/quaran/quaran.html"
     }
   }
 ]
