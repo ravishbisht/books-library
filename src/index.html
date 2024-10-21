@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../dist/output.css">
+    <script src="script.js" defer type="module"></script>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet" />
+
+</head>
+
+<body class="bg-slate-800 text-white p-4 relative">
+    <header class="w-full flex justify-between">
+        <div class="font-light text-3xl py-1">ℝᵃѶƗѕ𝔥📚</div>
+        <div class="font-semibold text-xl">
+            <a href="#books">
+                <button
+                    class="border-2 border-blue-500 px-4 rounded-lg py-1 font-light hover:bg-blue-500 hover:text-white">
+                    Books
+                </button>
+            </a>
+        </div>
+    </header>
+    <main>
+        <div
+            class="mt-14 w-72 sm:w-[60%] mx-auto flex justify-between items-center bg-slate-500 rounded-full overflow-hidden">
+            <input type="text"
+                class="text-white font-semibold py-3 px-6 flex-1 outline-none bg-slate-500 text-xl w-10 sm:w-full">
+            <button class="px-3 hover:text-blue-500"><i class="ri-search-line text-4xl"></i></button>
+        </div>
+        <div class="mt-10 flex w-full justify-evenly items-center gap-2">
+            <h2 class="text-lg md:w-1/2 font-thin">
+                Welcome to your free book library! Pick any book you love and start reading right away—no charges, no
+                sign-ups. Just easy, fun reading whenever you want!
+            </h2>
+            <img src="https://images.unsplash.com/photo-1622519624366-1b06e2f2aa0d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGJvb2tzfGVufDB8fDB8fHww"
+                alt="books" class="hidden md:block w-72 h-64 object-cover rounded-lg">
+        </div>
+
+        <h2 id="books" class="mt-14 text-center font-semibold text-2xl text-blue-500">BOOKS SHOW</h2>
+        <div id="booksCard" class="w-full mt-10 flex justify-center items-stretch flex-wrap gap-8">
+            <!-- cards data -->
+        </div>
+
+    </main>
+    <footer class="flex gap-4 mt-16 absolute left-1/2 -translate-x-1/2 pb-8">
+        <h2 class="font-mono font-bold">&copy;copyright by Ravish</h2>
+        <a href="https://instagram.com/web________developer" class="text-4xl">
+            <i class="ri-instagram-line text-pink-500"></i>
+        </a>
+    </footer>
+</body>
+
+</html>

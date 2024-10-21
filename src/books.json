@@ -1,0 +1,35 @@
+[
+  {
+    "title": "The Bhagwat Geeta summary",
+    "image": {
+      "src": "https://i.pinimg.com/564x/22/dd/40/22dd401bf89bb70f6f6d30cca0a18633.jpg",
+      "alt": "book-img"
+    },
+    "description": "The Bhagavad Gita is all about finding peace and purpose in life. It’s a chat between Arjuna and Krishna, packed with advice on handling tough times. A must-read if you’re looking for inspiration and good vibes!",
+    "button": {
+      "link": "books/geeta/geeta.html"
+    }
+  },
+  {
+    "title": "The Bible Summary",
+    "image": {
+      "src": "https://t3.ftcdn.net/jpg/04/17/69/02/360_F_417690298_CA84XAdAB0qqAGewVbbCgFnDdPHSpd6s.jpg",
+      "alt": "book-img"
+    },
+    "description": "Check out the Book of Proverbs! It’s full of short, wise sayings that give you helpful tips for everyday life. From friendship to making good choices, it’s like getting advice from a good friend. Perfect for anyone looking for a little guidance!",
+    "button": {
+      "link": "books/bible/bible.html"
+    }
+  },
+  {
+    "title": "The Quaran",
+    "image": {
+      "src": "https://thumbs.dreamstime.com/b/quran-4651747.jpg",
+      "alt": "book-img"
+    },
+    "description": "The Quran is Islam's holy book, sharing God's guidance on living a good and peaceful life. It's full of wisdom and advice for Muslims, helping them grow spiritually and find peace.",
+    "button": {
+      "link": "books/quaran/quaran.html"
+    }
+  }
+]
